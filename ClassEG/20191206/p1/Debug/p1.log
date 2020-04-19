@@ -1,0 +1,8 @@
+﻿  creat.c
+E:\arnol\Documents\VisualStudio\C\ClassEG\20191206\p1\creat.c(9,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+E:\arnol\Documents\VisualStudio\C\ClassEG\20191206\p1\creat.c(11,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+E:\arnol\Documents\VisualStudio\C\ClassEG\20191206\p1\creat.c(18,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+  p1.vcxproj -> E:\arnol\Documents\VisualStudio\C\ClassEG\20191206\p1\Debug\p1.exe
